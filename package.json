@@ -1,0 +1,26 @@
+{
+  "name": "document-preview",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "homepage": "https://codesandbox.io/s/new",
+  "main": "src/index.js",
+  "dependencies": {
+    "bootstrap": "3.3.7",
+    "react": "17.0.2",
+    "react-bootstrap": "0.31.2",
+    "react-dom": "16.3.3",
+    "react-pdf": "2.5.3",
+    "react-scripts": "1.1.0",
+    "react-virtualized": "9.18.5",
+    "react-waypoint": "8.0.1",
+    "underscore": "1.8.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
